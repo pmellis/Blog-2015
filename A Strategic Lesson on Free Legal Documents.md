@@ -4,7 +4,7 @@ Over the weekend, I read an [interesting article](http://techcrunch.com/2015/01/
 
 >The sites also convey a message about the scale and quality of the sponsoring law firm: It has the scale to afford giving away the once-“secret sauce” and the quality to bet doing so won’t cannibalize business. That message is founded upon the idea that law is a service, not a product. As one lawyer explained, “what I’m telling you is that my documents are not what makes me special – it’s the advice behind the documents.”
 
-Doktori goes on to explore whether startups providing free or cheap legal documents, like Shake, Clerky, and Docracy, can "do it better" and ultimately take market share from law firms. This raises an important question: How will firms respond? The answer may partially lie in an anecdote I read recently in Wikinomics.
+Doktori goes on to explore whether startups providing free or cheap legal documents, like [Shake](https://www.shakelaw.com/), [Clerky](https://www.clerky.com/), and [Docracy](http://www.docracy.com/), can "do it better" and ultimately take market share from law firms. This raises an important question: How will firms respond? The answer may partially lie in an anecdote I read recently in Wikinomics.
 
 In the early 1980s, the USPTO began granting patents claiming isolated DNA. This gene sequence data is valuable as it is often the key to researching and developing treatments for blockbuster drugs. By the mid- to late-90s, researchers and industry participants feared that these patents would potentially confer overly broad rights to individual entities and stymie competitive research and development, ultimately creating monopolies on treatments.
 
