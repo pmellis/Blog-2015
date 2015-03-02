@@ -1,2 +1,2 @@
-###Notes on Legal Operations. Business Development, Technology, & Access to Justice
+##Patrick Ellis' 2015 Notes, Quotes and Observations
 
