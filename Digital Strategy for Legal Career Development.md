@@ -57,4 +57,4 @@ Of course, none of this alone will help you land your dream job. But the discipl
 
 If this is helpful, you have any questions, or you have further recommendations for law students building an online presence, please let me know in the comments or send me an email at pme@honigman.com.
 
-Views expressed are the personal views of the author and do not represent the views of Honigman Miller Schwartz and Cohn LLP, its partners, employees or its clients.
+*Views expressed are the personal views of the author and do not represent the views of Honigman Miller Schwartz and Cohn LLP, its partners, employees or its clients.*
