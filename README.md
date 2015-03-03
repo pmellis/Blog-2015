@@ -8,4 +8,4 @@ This repo contains my notes and observations on that intersection.
 
 Feel free to get in touch at pme@honigman.com; [Twitter](https://twitter.com/pmellis); or [LinkedIn](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile).
 
-**Views expressed are the personal views of the author and do not represent the views of Honigman Miller Schwartz and Cohn LLP, its partners, employees or its clients.**
+*Views expressed are the personal views of the author and do not represent the views of Honigman Miller Schwartz and Cohn LLP, its partners, employees or its clients.*
