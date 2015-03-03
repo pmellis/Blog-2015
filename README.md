@@ -1,4 +1,4 @@
-##Patrick Ellis' 2015 Notesand Observations
+##Patrick Ellis' 2015 Notes and Observations
 
 > *When we study law we are not studying a mystery but a well-known profession.*
 
