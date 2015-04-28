@@ -1,4 +1,4 @@
-##legaltechstrategy.com
+##[legaltechstrategy.com](http://legaltechstrategy.com/)
 
 > *When we study law we are not studying a mystery but a well-known profession.*
 
